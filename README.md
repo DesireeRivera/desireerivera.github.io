@@ -6,7 +6,9 @@
 - 👨‍💻 Some of my fun projects are available in my personal website []
 
 - 💬 Some programming languages I am know are **Java, Matlab, C++, Python, R**
-- 💬 Some database tools 
+- 💬 Some Databases tools I work with: **MariaDB, MySQL**
+- 💬 Electronical and Mechanical Simulation Tools I work with: **Proteus, Ansys, NI Multisim**
+- 💬 Interfaces Applications I work with: **AppDesigner Matlab, Scene Builder**  
 
 - 📫 How to reach me **desiree.rivera.rdz@gmail.com**
 

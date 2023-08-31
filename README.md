@@ -11,7 +11,7 @@
 - 🏙️​ Medical Imaging Processing Tools I work with: ** itk-Snap, Fiji **
 - 💬 Interfaces Applications I work with: **AppDesigner Matlab, Scene Builder**  
 
-If you want further information or you have any question don´t hesitate to contact me
+If you require any further information, please feel free to contact me
 - 📫 How to reach me **desiree.rivera.rdz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

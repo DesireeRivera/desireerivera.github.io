@@ -3,13 +3,18 @@
 
 <h3 align="center">- 🔭 I’m currently studying a degree in Biomedical Engineering at **Universidad Europea** </h3>
 
+
 <h3 align="center">- 👩🏻‍💻 Some of my projects are available on my personal website [https://desiree-rivera.web.app/]</h3>
+
 
 <h3 align="center">- 💻 Some programming languages I am know are **Java, Matlab, C++, Python, R**</h3>
 <h3 align="center">- 💾 Some Databases tools I work with: **MariaDB, MySQL**
 <h3 align="center">- ⚙️ Electronical and Mechanical Simulation Tools I work with: **Proteus, Ansys, NI Multisim**</h3>
 <h3 align="center">- 🏙️​ Medical Imaging Processing Tools I work with: ** itk-Snap, Fiji ** </h3>
 <h3 align="center">- 💬 Interfaces Applications I work with: **AppDesigner Matlab, Scene Builder** </h3> 
+
+
+
 
 <h3 align="center">If you require any further information, please feel free to contact me</h3>
 - 📫 How to reach me **desiree.rivera.rdz@gmail.com**
